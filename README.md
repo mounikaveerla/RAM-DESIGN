@@ -52,6 +52,7 @@ Address lines are used to select the specific memory cell where data needs to be
 A decoder is often used to translate the address lines into signals that activate the corresponding memory cell.RAM is capable to perform two operations like as Read and Write. Read means signal transferring out,and Write means signal transferring in. RAM permits one of these control signals, internal circuit that is embeddedinto inside memory which are delivered the required function, which are expected from the user side. Supplybinary address of the required word inside the address lines. Supply the data bits which are must be hold intomemory internal of data input lines.
 
 "output":
+
 ![Image](https://github.com/user-attachments/assets/90e2eb15-3b69-4d02-b47e-5f4c19bbebc0)
 
 
