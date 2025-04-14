@@ -47,6 +47,9 @@ An "enable" input activates the decoder and allows the address lines to select a
 Uses flip-flops to store data, providing faster access but higher power consumption and cost.Uses capacitors to store data, offering lower cost and power consumption but slower access time.
 RAM design involves creating a system that efficiently stores, retrieves, and manages data, enabling fast and reliable performance for computer systems.
 RAM uses a unique address for each memory location to enable direct access to any data.
+
+"output" :
+![Image](https://github.com/user-attachments/assets/90e2eb15-3b69-4d02-b47e-5f4c19bbebc0)
 Address lines are used to select the specific memory cell where data needs to be stored or retrieved.
 A decoder is often used to translate the address lines into signals that activate the corresponding memory cell.RAM is capable to perform two operations like as Read and Write. Read means signal transferring out,and Write means signal transferring in. RAM permits one of these control signals, internal circuit that is embeddedinto inside memory which are delivered the required function, which are expected from the user side. Supplybinary address of the required word inside the address lines. Supply the data bits which are must be hold intomemory internal of data input lines.
 
