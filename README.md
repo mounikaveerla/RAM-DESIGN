@@ -53,6 +53,6 @@ A decoder is often used to translate the address lines into signals that activat
 
 "output":
 
-![Image](https://github.com/user-attachments/assets/90e2eb15-3b69-4d02-b47e-5f4c19bbebc0)
+![Image](https://github.com/user-attachments/assets/e83327bf-932a-4dfd-9db2-44e8ec9b923f)
 
 
